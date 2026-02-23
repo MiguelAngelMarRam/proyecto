@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="seekBarLluvia" type="id">seekBarLluvia</item>
+    <item name="buttonGuardarPref" type="id">buttonGuardarPref</item>
+    <item name="seekBarViento" type="id">seekBarViento</item>
+    <item name="seekBarTemp" type="id">seekBarTemp</item>
+</resources>

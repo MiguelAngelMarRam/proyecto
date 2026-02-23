@@ -1,4 +1,4 @@
-package dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26;
+package com.mamr.comparaclima;
 
 import android.os.Bundle;
 import android.widget.TextView;

@@ -1,4 +1,4 @@
-package dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26;
+package com.mamr.comparaclima;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26", appContext.getPackageName());
+        assertEquals("com.mamr.comparaclima", appContext.getPackageName());
     }
 }

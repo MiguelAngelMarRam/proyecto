@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26"
+    namespace = "com.mamr.comparaclima"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26"
+        applicationId = "com.mamr.comparaclima"
         minSdk = 31
         targetSdk = 35
         versionCode = 1
@@ -38,6 +38,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.constraintlayout)
     implementation("androidx.recyclerview:recyclerview:1.3.2")
+    implementation ("com.android.volley:volley:1.2.1")
 
 // Networking
     implementation("com.squareup.retrofit2:retrofit:2.9.0")

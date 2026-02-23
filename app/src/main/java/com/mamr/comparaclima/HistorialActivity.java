@@ -1,4 +1,4 @@
-package dam.pmdm.comparador_de_tiempo_proyecto_mamr_2025_26;
+package com.mamr.comparaclima;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.mamr.comparaclima.db.BaseDeDatos;
 
 import java.text.SimpleDateFormat;
 import java.util.List;
